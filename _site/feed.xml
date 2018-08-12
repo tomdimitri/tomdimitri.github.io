@@ -1,12 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-12T16:32:25+02:00</updated><id>http://localhost:4000/</id><title type="html">Lagrange</title><subtitle>a minimalist Jekyll theme</subtitle><author><name>Paul Le</name></author><entry><title type="html">Watchlist</title><link href="http://localhost:4000/journal/watchlist.html" rel="alternate" type="text/html" title="Watchlist" /><published>2018-08-12T00:00:00+02:00</published><updated>2018-08-12T00:00:00+02:00</updated><id>http://localhost:4000/journal/watchlist</id><content type="html" xml:base="http://localhost:4000/journal/watchlist.html">&lt;p&gt;These are the movies I am planning to watch in the new future. I try to update it as regularly as possible. They are grouped in country of origin. In some specific cases other subgroups may be applied (director, topic, etc.).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-12T17:05:16+02:00</updated><id>http://localhost:4000/</id><title type="html">Lagrange</title><subtitle>a minimalist Jekyll theme</subtitle><author><name>Paul Le</name></author><entry><title type="html">Watchlist</title><link href="http://localhost:4000/journal/watchlist.html" rel="alternate" type="text/html" title="Watchlist" /><published>2018-08-12T00:00:00+02:00</published><updated>2018-08-12T00:00:00+02:00</updated><id>http://localhost:4000/journal/watchlist</id><content type="html" xml:base="http://localhost:4000/journal/watchlist.html">&lt;p&gt;These are the movies I am planning to watch in the new future. I try to update it as regularly as possible. They are grouped in country of origin. In some specific cases other subgroups may be applied (director, topic, etc.).&lt;/p&gt;
 
 &lt;h2 id=&quot;asian-movies&quot;&gt;Asian Movies&lt;/h2&gt;
 &lt;h3 id=&quot;korean-movies&quot;&gt;Korean Movies&lt;/h3&gt;
+&lt;p&gt;2018 The Spy Gone North (Gongjak), by Jong-bin Yoon&lt;br /&gt;
+2010 The Man from Nowhere (Ajeossi) by Jeong-beom Lee&lt;br /&gt;
+2011 War of the Arrows (Choi-jong-byeong-gi hwal), by Han-min Kim&lt;br /&gt;
+2007 Secret Sunshine (Milyang), by Chang-dong Lee&lt;br /&gt;
+1993 To the Starry Island (Geu seome gago shibda), by Kwangsu Park&lt;br /&gt;
+1995 A Single Spark (Jeon tae-il), by Kwangsu Park&lt;br /&gt;
+1997 Green Fish (Chorok Mulgogi), by Lee Changdong&lt;br /&gt;
+2010 The Yellow Sea (Hwanghae), by Hong-jin Na&lt;/p&gt;
+
+&lt;h4 id=&quot;directed-by-hong-sangsoo&quot;&gt;directed by Hong Sangsoo&lt;/h4&gt;
+&lt;p&gt;2017 Claire’s Camera (La caméra de Claire)&lt;br /&gt;
+2016 Yourself and Yours (Dangsinjasingwa dangsinui geot)&lt;br /&gt;
+2013 Nobody’s Daughter Haewon (Nuguui ttaldo anin Haewon)&lt;br /&gt;
+2011 The Day he Arrives (Book chon bang hyang)&lt;br /&gt;
+2010 Oki’s Movie (Okhuiui yeonghwa)&lt;br /&gt;
+2010 Hahaha&lt;br /&gt;
+2009 Like You Know It All (Jaa aljido mothamyeonseo)&lt;br /&gt;
+2008 Night and Day (Bam gua nat)&lt;br /&gt;
+2006 Woman on the Beach (Haebyeonui yeoin)&lt;br /&gt;
+2005 Tale of Cinema (Geuk Jang Jeon)&lt;br /&gt;
+2004 Woman Is the Future of Woman (Yeojaneun namjaui Miraeda)&lt;br /&gt;
+2002 Turning Gate (Saenghwalui balgyeon)&lt;br /&gt;
+2000 Virgin stripped Bare by her Bachelors (Oh! Soojung)&lt;br /&gt;
+1998 The Power of Kangwon Province (Kangwondo ui him)&lt;/p&gt;
 
 &lt;h3 id=&quot;japanese-movies&quot;&gt;Japanese Movies&lt;/h3&gt;
+&lt;p&gt;2008 Snakes and Earrings (Hebi ni piasu), by Yukio Ninagawa&lt;br /&gt;
+1952 The Life of  (Saikaku ichidai onna), by Kenji Mizoguchi&lt;br /&gt;
+1963 The Revenge of a Kabuki Actor (Yukinojô henge), by Kon Ichikawa&lt;br /&gt;
+1969 Boy (Shônen), by Nagisa Oshima&lt;br /&gt;
+1979 Vengeance Is Mine (Fukushû suru wa ware ni ari), by Shohei Imamura&lt;br /&gt;
+1996 Swallowtail Butterfly (Suwarôteiru), by Shunji Iwai&lt;br /&gt;
+2010 Haru’s Journey (Haru tono tabi), by Masahiro Kobayashi&lt;br /&gt;
+2007 The Mourning Forest (Mogari no mori), Naomi Kawase&lt;/p&gt;
 
 &lt;h3 id=&quot;chinese-movies&quot;&gt;Chinese Movies&lt;/h3&gt;
+&lt;p&gt;2014 Coming Home (Gui lai), by Yimou Zhang&lt;/p&gt;
 
-&lt;h3 id=&quot;hong-kong-movies&quot;&gt;Hong Kong Movies&lt;/h3&gt;
-
-&lt;h3 id=&quot;taiwanese-movies&quot;&gt;Taiwanese Movies&lt;/h3&gt;</content><author><name>Thomas Dimitri</name></author><summary type="html">These are the movies I am planning to watch in the new future. I try to update it as regularly as possible. They are grouped in country of origin. In some specific cases other subgroups may be applied (director, topic, etc.).</summary></entry></feed>
+&lt;h3 id=&quot;taiwanese-movies&quot;&gt;Taiwanese Movies&lt;/h3&gt;
+&lt;p&gt;2005 Three Times (Zui hao de shi guang), by Hsiao-Hsien Hou&lt;/p&gt;</content><author><name>Thomas Dimitri</name></author><summary type="html">These are the movies I am planning to watch in the new future. I try to update it as regularly as possible. They are grouped in country of origin. In some specific cases other subgroups may be applied (director, topic, etc.).</summary></entry></feed>
