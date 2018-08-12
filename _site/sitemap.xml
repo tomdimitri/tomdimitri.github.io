@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/journal/about-the-author.html</loc>
-<lastmod>2013-04-04T00:00:00+02:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/journal/learning-resources.html</loc>
 <lastmod>2013-10-10T00:00:00+02:00</lastmod>
 </url>
@@ -21,6 +17,30 @@
 <lastmod>2016-01-01T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/journal/welcome-to-lagrange0.html</loc>
+<lastmod>2016-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/welcome-to-lagrange00.html</loc>
+<lastmod>2016-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/welcome-to-lagrange01.html</loc>
+<lastmod>2016-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/welcome-to-lagrange02.html</loc>
+<lastmod>2016-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/welcome-to-lagrange03.html</loc>
+<lastmod>2016-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/journal/welcome-to-lagrange04.html</loc>
+<lastmod>2016-01-01T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/menu/about.html</loc>
 </url>
 <url>
@@ -31,5 +51,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/menu/writing.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
