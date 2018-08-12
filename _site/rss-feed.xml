@@ -7,153 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Welcome to Lagrange!</title>
+				<title>Watchlist</title>
 				
-					<dc:creator>Paul Le</dc:creator>
+					<dc:creator>Thomas Dimitri</dc:creator>
 				
 				
-					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
+					<description>&lt;p&gt;These are the movies I am planning to watch in the new future. I try to update it as regularly as possible. They are grouped in country of origin. In some specific cases other subgroups may be applied (director, topic, etc.).&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/welcome-to-lagrange04.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/welcome-to-lagrange04.html</guid>
-			</item>
-		
-			<item>
-				<title>Welcome to Lagrange!</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/welcome-to-lagrange03.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/welcome-to-lagrange03.html</guid>
-			</item>
-		
-			<item>
-				<title>Welcome to Lagrange!</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/welcome-to-lagrange02.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/welcome-to-lagrange02.html</guid>
-			</item>
-		
-			<item>
-				<title>Welcome to Lagrange!</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/welcome-to-lagrange01.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/welcome-to-lagrange01.html</guid>
-			</item>
-		
-			<item>
-				<title>Welcome to Lagrange!</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/welcome-to-lagrange00.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/welcome-to-lagrange00.html</guid>
-			</item>
-		
-			<item>
-				<title>Welcome to Lagrange!</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/welcome-to-lagrange0.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/welcome-to-lagrange0.html</guid>
-			</item>
-		
-			<item>
-				<title>Welcome to Lagrange!</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/welcome-to-lagrange.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/welcome-to-lagrange.html</guid>
-			</item>
-		
-			<item>
-				<title>Getting Started</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;lagrange&quot;&gt;Lagrange&lt;/h1&gt;
-
-</description>
-				
-				<pubDate>Sat, 10 Oct 2015 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/getting-started.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/getting-started.html</guid>
-			</item>
-		
-			<item>
-				<title>Text Formatting Examples</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
-
-</description>
-				
-				<pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-				<link>http://localhost:4000/journal/text-formatting-examples.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/text-formatting-examples.html</guid>
-			</item>
-		
-			<item>
-				<title>Learning Resources</title>
-				
-					<dc:creator>Paul Le</dc:creator>
-				
-				
-					<description>&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
-				<link>http://localhost:4000/journal/learning-resources.html</link>
-				<guid isPermaLink="true">http://localhost:4000/journal/learning-resources.html</guid>
+				<pubDate>Sun, 12 Aug 2018 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/journal/watchlist.html</link>
+				<guid isPermaLink="true">http://localhost:4000/journal/watchlist.html</guid>
 			</item>
 		
 	</channel>
